@@ -23,7 +23,7 @@ class Program
         {
             Console.WriteLine("You are " + age + " years old, so you can see R rated movies.");
         }
-        else if(age >= 13)
+        else if (age >= 13)
         {
             Console.WriteLine("You are " + age + " years old, so you can see PG-13 rated movies.");
         }
